@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModbusRTUDemo", "ModbusRTUDemo\ModbusRTUDemo.csproj", "{76EFD46E-5C7F-4B04-9DB4-9AE55A23B9C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NModbus", "NModbus\NModbus.csproj", "{07E9DE9D-3572-4CAA-93C4-98BACF0115E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NModbusDemo", "NModbusDemo\NModbusDemo.csproj", "{91299E1D-F6FB-4C3D-A775-BDD28269995E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76EFD46E-5C7F-4B04-9DB4-9AE55A23B9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EFD46E-5C7F-4B04-9DB4-9AE55A23B9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EFD46E-5C7F-4B04-9DB4-9AE55A23B9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EFD46E-5C7F-4B04-9DB4-9AE55A23B9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E9DE9D-3572-4CAA-93C4-98BACF0115E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E9DE9D-3572-4CAA-93C4-98BACF0115E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E9DE9D-3572-4CAA-93C4-98BACF0115E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E9DE9D-3572-4CAA-93C4-98BACF0115E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91299E1D-F6FB-4C3D-A775-BDD28269995E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91299E1D-F6FB-4C3D-A775-BDD28269995E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91299E1D-F6FB-4C3D-A775-BDD28269995E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91299E1D-F6FB-4C3D-A775-BDD28269995E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0DABCF0-D4F3-45F7-81B8-4380EFD826B2}
+	EndGlobalSection
+EndGlobal
